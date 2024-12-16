@@ -1,8 +1,6 @@
-Here’s an **overview for a GitHub `README.md` file** for your Basic Calculator program. This template ensures clarity and provides relevant details for potential users or contributors.
 
----
 
-# Basic Calculator
+# simple Calculator
 
 A simple console-based calculator program written in Python. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
